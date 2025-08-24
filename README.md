@@ -36,4 +36,11 @@ A API fornece **autenticação** e **CRUD de usuários** com informações da �
 ```sql
 CREATE DATABASE operacao_curiosidade
   CHARACTER SET utf8mb4
-  COLLATE utf8mb4_unicode_ci;
+  COLLATE utf8mb4_unicode_ci;```
+
+### 3) Usuários para teste
+- dalves@curiosity.com       senha diego123
+- admin@curiosity.com        senha admin123
+- stephanienichols@gmail.com senha 123456
+- stephanienichols@gmail.com senha 123456
+- andrewstuart@outlook.com   senha 123456
