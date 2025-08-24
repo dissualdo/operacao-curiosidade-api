@@ -7,7 +7,7 @@ A API fornece **autenticação** e **CRUD de usuários** com informações da �
 
 ⚠️ **Observação:** para agilizar a entrega, a atualização de usuário foi implementada como `POST /api/user/{id}` (em vez de `PUT/PATCH`). No README explicamos o trade-off.
 
- 
+- Documentação completa: https://www.notion.so/Documento-T-cnico-258ce82b6406809c8c71d649a5d3dba9
 ---
 
 ## 📦 Requisitos
